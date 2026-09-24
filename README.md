@@ -47,7 +47,7 @@ The competition data is **not included** in this repository, per Kaggle's compet
 
 ```bash
 pip install pandas numpy scikit-learn xgboost category_encoders matplotlib jupyter
-jupyter notebook house-prices-final.ipynb
+jupyter notebook house-prices-competition-notebook.ipynb
 ```
 
 Update the `TRAIN_PATH` / `TEST_PATH` variables in the first code cell if your data folder is named differently.
